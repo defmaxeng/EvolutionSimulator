@@ -28,6 +28,9 @@
       color:white;
       opacity:0.85;
    }
+   #smaller {
+      font-size:40px;
+   }
    button {
       color:white;
       background-color:green;
